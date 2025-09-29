@@ -5,3 +5,4 @@ int main(){
     int sum=a+b;
     printf("%d",sum);
 } 
+ 
